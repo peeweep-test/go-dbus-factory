@@ -1,3 +1,9 @@
+golang-github-linuxdeepin-go-dbus-factory (6.0.50) unstable; urgency=medium
+
+  * ci: pass app secrets to changelog workflow
+
+ -- MyLeeJiEun <70250755+MyLeeJiEun@users.noreply.github.com>  Tue, 03 Nov 2026 21:41:20 +0800
+
 golang-github-linuxdeepin-go-dbus-factory (2.0.31) unstable; urgency=medium
 
   * refactor: 移除 SetShortIdleState 接口方法
