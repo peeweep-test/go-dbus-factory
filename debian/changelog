@@ -1,3 +1,10 @@
+golang-github-linuxdeepin-go-dbus-factory (6.8.0) unstable; urgency=medium
+
+  * test: point group version guard at isolated validation workflow
+  * chore: Sync by
+
+ -- Zhao Fangxun <zhaofangxun@uniontech.com>  Fri, 13 Nov 2026 14:55:42 +0800
+
 golang-github-linuxdeepin-go-dbus-factory (6.0.50) unstable; urgency=medium
 
   * ci: pass app secrets to changelog workflow
