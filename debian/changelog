@@ -1,3 +1,9 @@
+golang-github-linuxdeepin-go-dbus-factory (6.8.1) unstable; urgency=medium
+
+  * Release 6.8.1
+
+ -- Zhao Fangxun <zhaofangxun@uniontech.com>  Fri, 13 Nov 2026 16:51:11 +0800
+
 golang-github-linuxdeepin-go-dbus-factory (6.8.0) unstable; urgency=medium
 
   * test: point group version guard at isolated validation workflow
